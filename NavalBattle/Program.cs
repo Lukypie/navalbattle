@@ -4,7 +4,7 @@
 	{
 		static void Main(string[] args)
 		{
-			Console.Title = "Battaglia navale";
+			Console.Title = "Naval Battle";
 			int[,] griglia = new int[15, 15];
 			char[,] paral = new char[15, 15];
 			int a1, b1, c1, a2, b2, c2, a3, b3, c3, a4, b4, c4;
