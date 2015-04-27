@@ -1,0 +1,5 @@
+/home/luky/NavalBattle/NavalBattle/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/luky/NavalBattle/NavalBattle/bin/Debug/NavalBattle.exe.mdb
+/home/luky/NavalBattle/NavalBattle/bin/Debug/NavalBattle.exe
+/home/luky/NavalBattle/NavalBattle/obj/x86/Debug/NavalBattle.exe
+/home/luky/NavalBattle/NavalBattle/obj/x86/Debug/NavalBattle.exe.mdb
